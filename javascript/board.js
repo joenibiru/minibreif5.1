@@ -81,7 +81,6 @@ class Board{
 
 
 
-
             if(lines.length==4){
                 score.textContent = parseInt(score.textContent)+ fixedScores[4];
                 tetrisCount++;    
