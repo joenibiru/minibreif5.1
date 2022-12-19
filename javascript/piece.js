@@ -65,7 +65,7 @@ const colors =[
 
 
 
-class Piece{
+class Piece {
     x;
     y;
     color;
